@@ -15,14 +15,14 @@ function Surah() {
         <h2>1. SURAH AN-NASR :- </h2>
        <img src="/images/1.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Iza jaa-a nas rullahi walfath,
+          <strong>In English :- </strong><br/>Iza jaa-a nas rullahi walfath,
           <br />
           Waraayta annasa yadkhuloonafee deeni Allahi afwaja,
           <br />
           Fa sab bih bihamdi rabbika was taghfir,<br/>innahu kaana tawwaaba
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           When the victory of Allah has come and the conquest,
           <br />
           And you see the people entering into the religion of Allah in
@@ -38,7 +38,7 @@ function Surah() {
         <h2>2. SURAH AL-IKHLAS :- </h2>
         <img src="/images/2.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Qul huwa Allahu ahad,
+          <strong>In English :- </strong><br/>Qul huwa Allahu ahad,
           <br />
           Allahu assamad,
           <br />
@@ -47,7 +47,7 @@ function Surah() {
           Wa lam yakul-lahu kufuwan ahad.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           Say, “He is Allah, [who is] One,
           <br />
           Allah, the Eternal Refuge.
@@ -62,7 +62,7 @@ function Surah() {
         <h2>3. SURAH AL-ASR :- </h2>
         <img src="/images/3.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Wal Asr,
+          <strong>In English :- </strong><br/>Wal Asr,
           <br />
           Innal insaana lafee khusr,
           <br />
@@ -70,7 +70,7 @@ function Surah() {
           wa tawa saw bissabr.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           By time,
           <br />
           Indeed, mankind is in loss,
@@ -87,14 +87,14 @@ function Surah() {
         <h2>4. SURAH AL-KAWTHAR :- </h2>
         <img src="/images/4.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Inna aAAtayna kaal kawthar,
+          <strong>In English :- </strong><br/>Inna aAAtayna kaal kawthar,
           <br />
           Fa salli li rabbika wanhar,
           <br />
           Inna shani-aka huwa al-abtar.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           Indeed, We have granted you, [O Muhammad], al-Kawthar.
           <br />
           So pray to your Lord and sacrifice [to Him alone].
@@ -107,7 +107,7 @@ function Surah() {
         <h2>5. SURAH QURAYSH :- </h2>
         <img src="/images/5.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Li-eelafi quraysh,
+          <strong>In English :- </strong><br/>Li-eelafi quraysh,
           <br />
           Eelafihim rihlata ashshita-iwassayf,
           <br />
@@ -116,7 +116,7 @@ function Surah() {
           Allazi at’amahum min ju’inw-wa-aamana hum min khawf.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           For the accustomed security of the Quraysh-,
           <br />
           Their accustomed security [in] the caravan of winter and summer –,
@@ -133,7 +133,7 @@ function Surah() {
         <h2>6. SURAH FALAQ :- </h2>
         <img src="/images/6.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Qul a’uzoo bi rabbil-falaq,
+          <strong>In English :- </strong><br/>Qul a’uzoo bi rabbil-falaq,
           <br />
           Min sharri ma khalaq,
           <br />
@@ -142,7 +142,7 @@ function Surah() {
           Wa min shar ri haasidin iza hasad.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           Say: I seek refuge with the Lord of the Dawn,
           <br />
           From the mischief of created things;,
@@ -159,7 +159,7 @@ function Surah() {
         <h2>7. SURAH MASAD :- </h2>
         <img src="/images/7.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Tab bat yadaa abee Lahabinw-wa tabb,
+          <strong>In English :- </strong><br/>Tab bat yadaa abee Lahabinw-wa tabb,
           <br />
           Maa aghna ‘anhu maaluhu wa ma kasab,
           <br />
@@ -170,7 +170,7 @@ function Surah() {
           Fee jeediha hab lum mim-masad.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           May the hands of Abu Lahab be ruined, and ruined is he.
           <br/>
           His wealth will not avail him or that which he gained.
@@ -187,7 +187,7 @@ function Surah() {
         <h2>8. SURAH QADR :- </h2>
         <img src="/images/8.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Innaa anzalnaahu fee lailatil qadr,
+          <strong>In English :- </strong><br/>Innaa anzalnaahu fee lailatil qadr,
           <br />
           Wa maa adraaka ma lailatul qadr,
           <br />
@@ -200,7 +200,7 @@ function Surah() {
           Salaamun hiya hattaa mat la’il fajr.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           Indeed, We sent the Qur’an down during the Night of Decree.
           <br />
           And what can make you know what is the Night of Decree?
@@ -219,7 +219,7 @@ function Surah() {
         <h2>9. SURAH KAFIRUN :- </h2>
         <img src="/images/9.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Qul yaa-ai yuhal kaafiroon,
+          <strong>In English :- </strong><br/>Qul yaa-ai yuhal kaafiroon,
           <br />
           Laa a’budu ma t’abudoon, <br/>Wa laa antum ‘aabidoona maa a’bud,
           <br />
@@ -228,7 +228,7 @@ function Surah() {
           Wa laa antum ‘aabidoona ma a’bud, <br/>Lakum deenukum wa liya deen.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           Say, “O disbelievers, I do not worship what you worship.
           <br />
           Nor are you worshipers of what I worship.
@@ -245,7 +245,7 @@ function Surah() {
         <h2>10. SURAH AN-NAS :- </h2>
         <img src="/images/10.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Qul a’uzu birabbin naas,
+          <strong>In English :- </strong><br/>Qul a’uzu birabbin naas,
           <br />
           Malikin naas, Ilaahin naas,
           <br />
@@ -256,7 +256,7 @@ function Surah() {
           Minal jinnati wan naas.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           Say, “I seek refuge in the Lord of mankind,
           <br />
           The Sovereign of mankind. The God of mankind,
@@ -273,7 +273,7 @@ function Surah() {
         <h2>11. SURAH AL-FIL :- </h2>
         <img src="/images/11.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Alam tara kaifa fa’ala rabbuka bi ashaabil feel,
+          <strong>In English :- </strong><br/>Alam tara kaifa fa’ala rabbuka bi ashaabil feel,
           <br />
           Alam yaj’al kai dahum fee tad leel,
           <br />
@@ -284,7 +284,7 @@ function Surah() {
           Faja ‘alahum ka’asfim m’akool.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           Have you not considered, [O Muhammad], 
           <br/>
           how your Lord dealt with the companions of the elephant?
@@ -303,7 +303,7 @@ function Surah() {
         <h2>12. SURAH MAUN :- </h2>
         <img src="/images/12.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Ara-aital lazee yu kazzibu bid deen,
+          <strong>In English :- </strong><br/>Ara-aital lazee yu kazzibu bid deen,
           <br/>
           Fa zaalikal lazi yadu’ul-yateem,
           <br />
@@ -314,7 +314,7 @@ function Surah() {
           Al lazeena hum yuraa-oon, Wa yamna’oonal ma’oon.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           Have you seen the one who denies the Recompense?
           <br />
           For that is the one who drives away the orphan,
@@ -331,7 +331,7 @@ function Surah() {
         <h2>13. SURAH AT-TIN :- </h2>
         <img src="/images/13.jpg" alt="Surah AN-NASR" />
         <p>
-          <strong>In English :- </strong>Wat teeni waz zaitoon,<br/> Wa toori sineen, <br/>Wa haazal balad-il ameen,
+          <strong>In English :- </strong><br/>Wat teeni waz zaitoon,<br/> Wa toori sineen, <br/>Wa haazal balad-il ameen,
           <br />
           Laqad khalaqnal insaana fee ahsani taqweem, <br/>Thumma ra dad naahu asfala saafileen,
           <br />
@@ -340,7 +340,7 @@ function Surah() {
           Fama yu kaz zibuka b’adu bid deen, <br/>Alai sal laahu bi-ahkamil haakimeen.
         </p>
         <p>
-          <strong>Translation :- </strong>
+          <strong>Translation :- </strong><br/>
           By the fig and the olive,<br/> And [by] Mount Sinai, <br/>And [by] this secure city [Makkah],
           <br />
           We have certainly created man in the best of stature; <br/>Then We return him to the lowest of the low,
