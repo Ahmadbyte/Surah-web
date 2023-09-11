@@ -3,7 +3,7 @@ import "./suraah.css";
 
 function Surah() {
   return (
-    <div>
+    <div className="main">
       <div className="head">
       <a href="https://myislam.org/short-surahs/"><h1>My Priority Deen</h1></a>
         <h2 className="desc">13 Short Surah to Learn !!</h2>
